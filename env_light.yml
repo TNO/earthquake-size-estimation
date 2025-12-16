@@ -1,0 +1,9 @@
+name: earthquake-size-estimation
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyterlab
+  - scipy
+  - matplotlib
+  - numpy
